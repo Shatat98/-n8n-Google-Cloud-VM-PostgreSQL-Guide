@@ -2,6 +2,8 @@
 
 This guide helps you self-host **n8n** on a **Google Cloud VM** using **Docker + Docker Compose**, and migrate from default SQLite (filesystem) storage to **PostgreSQL** for improved performance and scalability.
 
+
+🇸🇦 [اضغط هنا لقراءة الدليل باللغة العربية](README.ar.md)
 ---
 
 ## ✅ Requirements
